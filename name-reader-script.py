@@ -4,9 +4,9 @@ import io
 from openpyxl.styles import PatternFill
 
 # --- PAGE CONFIG ---
-st.set_page_config(page_title="Name Validator Pro", page_icon="✅")
+st.set_page_config(page_title="Name Validator", page_icon="✅")
 
-st.title(" Mpesa name Validator")
+st.title("User name Validator")
 st.markdown("""
 Upload your Excel file to verify names. 
 **Logic:** At least **one** name must match 100% between the columns. This is a testing script, don't forget to manually confirm and validate.  
