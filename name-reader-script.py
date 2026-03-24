@@ -3,6 +3,7 @@ import pandas as pd
 import io
 from openpyxl.styles import PatternFill
 
+with analytics.track():
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="Name Validator", page_icon="✅")
 
