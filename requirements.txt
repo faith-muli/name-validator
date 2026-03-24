@@ -1,1 +1,2 @@
 openpyxl
+streamlit_analytics2
